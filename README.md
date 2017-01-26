@@ -30,6 +30,6 @@ LocalFileStorageService-MaxVersions | How many versions should be retained.  Reg
 The application is all driven by configuration so it needs no parameters, and is setup in a manner that will allow consistent execution without user interaction.  Windows Task Scheduler can be used to run the job on a regular basis.  We use a once-per-day schedule for our operations, you can configure in any manner desired.
 
 ## Feature Requests
-We encourage feature requests and bug reports.  Feel free to submit issues/requests as needed and we will work to address them as soon as possible.
+We encourage feature requests and bug reports.  Feel free to submit issues/requests as needed using the [Issues](https://github.com/IowaComputerGurus/GearhostUtilities/issues) tab above and we will work to address them as soon as possible.
 
 		
