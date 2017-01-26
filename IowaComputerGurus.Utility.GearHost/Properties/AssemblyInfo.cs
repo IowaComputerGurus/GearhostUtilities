@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IowaComputerGurus.Utility.GearHost")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("GearHost Utilities")]
+[assembly: AssemblyDescription("Implementation code for working with GearHost API methods, provides services needed by GearHostRunner")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("IowaComputerGurus, Inc.")]
 [assembly: AssemblyProduct("IowaComputerGurus.Utility.GearHost")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright ©  2017 IowaComputerGurus, Inc.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
